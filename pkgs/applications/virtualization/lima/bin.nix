@@ -10,7 +10,7 @@
 }:
 
 let
-  version = "0.22.0";
+  version = "1.0.7";
 
   dist = {
     aarch64-darwin = rec {
